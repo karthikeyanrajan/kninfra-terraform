@@ -1,0 +1,4 @@
+resource "aws_key_pair" "karthikeyanrajan" {
+  key_name   = "karthikeyanrajan"
+  public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCIoAPa/0EUAEIhGuP3l0NOXvaq+LAdYcza7uD6JuhB8dmIs2gfz1AIElRfKH0Nb6bD/OpY4/309PPl5dOwxvAiIgCEanHEKe+LcqipaUDRtkq3F3qZ1fwp7vhMM6yTTWCQfmFZwEMpbAoe+I2AlDopJVMZVJYslvsKItk/+FDZhBCVAobCViVtiYs+PUUMY/l2KqqQNQR7JBWoPgmU7yVKsPeTEiVKVAfHianM4YH9OSYnHenz3WAM1tO385X4zfgjfIQzHntSW+HXVj0cDJ1o+dpWe2p8/nFzWHJmzwWWCaDbwT+Mz+W6Qc2DKqvYW7jkTOD39KRX5H2MtgfE0K7MrJYhW7v/T2aRlomDv5Sy4Giq01IyZnqZ9kaBrzOGULfeWtwW67peSfhy46mZN7poGbOUN3ncfUYIwW3pfvSkBEuZnGpKlYb0UBZCIUCj+NyRkSIO4ekljn5BC5QlJlHNmLXR7m3TBzoUgHC23+CjBvfP+xePC8hl/FpkIjx3CHs= root@ip-172-31-82-196"
+}
